@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477381800263",
+    "project_id": "chargenotification-f6bdc",
+    "storage_bucket": "chargenotification-f6bdc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477381800263:android:42f21ca4cf5f6939f5dc62",
+        "android_client_info": {
+          "package_name": "com.example.chargenotifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKKX5nXV8YjPbwNnJZp5ZtNg1NICRRINE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
