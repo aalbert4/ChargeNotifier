@@ -23,7 +23,7 @@ Have you ever been out and about enjoying your day when you receive that dreadfu
 - **Selective Notifications**: Toggle Charging and On-Body notifications independently.
 - **Auto-Dismiss Timer**: Choose how long status notifications stay on your phone (from 10 seconds up to 2 minutes) to keep your notification shade clean.
 - **Foreground Reliability**: Uses Android Foreground Services on both devices to ensure background monitoring persists even during aggressive battery saving.
-- **Modes and Routines plugin**: This is built for modes and routines from the ground up with notification support. You can trigger actions from your watch when your phone receives a notification for ChargeNotifier.   
+- **Modes and Routines plugin**: This is built for modes and routines from the ground up with notification support. You can trigger actions from your watch when your phone receives a notification from ChargeNotifier.   
 
 ## How It Works
 1. **The Watch**: A background service monitors the battery level and the low-latency off-body sensor.
