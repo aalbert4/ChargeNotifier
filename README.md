@@ -7,7 +7,7 @@ Have you ever been out and about enjoying your day when you receive that dreadfu
 
 | Phone Dashboard | Settings | Wear OS Interface |
 |:---:|:---:|:---:|
-| ![Phone Dashboard](screenshots/Main_Screen.jpg) | ![Settings](screenshots/phone_settings.jpg) | ![Watch App](screenshots/wear_main.png) |
+| ![Phone Dashboard](Screenshots/Main_Screen.jpg) | ![Settings](Screenshots/phone_settings.jpg) | ![Watch App](Screenshots/wear_main.png) |
 
 ## Core Features
 
